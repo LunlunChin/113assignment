@@ -1,0 +1,10 @@
+Ali bin Ahmad	aaa111	11111	1	1	11
+Lee Li Shuen	aaa222	11222	1	2	18
+Ooi Jia You	aaa333	11333	1	2	18
+Abu bin Daniel	bbb111	12111	2	1	10
+Siti binti Abu	bbb222	12222	2	2	21
+Harini A/P Ragu	ccc111	13111	3	1	12
+Sree A/L Muthu	ccc222	13222	3	2	9
+Amirah binti Siti	ccc333	13333	3	2	17
+Tan Kian Lun	ddd111	14111	4	1	17
+Fiona See	ddd222	14222	4	2	19
